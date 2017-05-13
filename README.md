@@ -1,5 +1,5 @@
 # HibernateApp
-This is a complete solution for connect database with java using Hibernate.Key elements of this project are Spring boot.
+This is a complete solution for connect database with java using Hibernate.Key elements of this project are Hibernate.
 # Prerequisites
 The following items should be installed in your system before starting.
 
